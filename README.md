@@ -1,7 +1,7 @@
 # Sistema de Órdenes para Lavandería (PF-08)
 
-**Estudiante:** [Nombre completo]
-**Carné:** [Número de carné]
+**Estudiante:** Emerson Omar Martínez Porras
+**Carné:** 9941-23-764
 
 ## Descripción del problema
 Una lavandería necesita registrar sus tipos de servicio y dar seguimiento a cada orden.
